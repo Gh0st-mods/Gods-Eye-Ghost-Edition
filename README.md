@@ -5,7 +5,7 @@
 **A live 3D intelligence globe in the browser.**  
 Track aircraft and ships, inspect contacts, and fly the planet — without a Google Maps bill, without OpenAI, and without signing up for an API key.
 
-Rebuild of the open-source [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) client: smoother contact handling, a rebuilt ship/plane inspect flow, and a default path that stays **keyless**.
+Rebuild of the open-source [God's Eye View](https://github.com/bilawalsidhu/gods-eye-view) client: smoother contact handling, a rebuilt ship/plane inspect flow, and a default path that stays **keyless**. Full credit to the original developer for creating an amazing and beautiful tool. I simply wanted to make it easier for people and make some changes to improve the UI.
 
 [Quick start](#quick-start) · [Why Ghost Edition](#why-ghost-edition) · [What's live](#whats-live) · [Ships and planes](#ships--planes) · [Screenshots](#screenshots)
 
