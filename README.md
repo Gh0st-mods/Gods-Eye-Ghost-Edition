@@ -10,7 +10,7 @@ Rebuild of the open-source [God's Eye View](https://github.com/bilawalsidhu/gods
 [Quick start](#quick-start) · [Why Ghost Edition](#why-ghost-edition) · [What's live](#whats-live) · [Ships and planes](#ships--planes) · [Screenshots](#screenshots)
 
 </div>
-
+𝘾𝙡𝙞𝙘𝙠 𝙩𝙝𝙚 𝙫𝙞𝙙𝙚𝙤 𝙗𝙚𝙡𝙤𝙬 𝙩𝙤 𝙬𝙖𝙩𝙘𝙝 𝙖 𝙙𝙚𝙢𝙤
 [![Gods Eye Ghost Edition — Live Tracking Demo](https://img.youtube.com/vi/6zXQPCAVU60/maxresdefault.jpg)](https://www.youtube.com/watch?v=6zXQPCAVU60)
 
 ---
