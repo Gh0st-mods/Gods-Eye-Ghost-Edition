@@ -11,7 +11,7 @@ Rebuild of the open-source [God's Eye View](https://github.com/bilawalsidhu/gods
 
 </div>
 
-![Gods Eye Ghost Edition — live globe over the United Kingdom with flights and AIS vessels](docs/screenshots/01-hero.png)
+[![Gods Eye Ghost Edition — Live Tracking Demo](https://img.youtube.com/vi/6zXQPCAVU60/maxresdefault.jpg)](https://www.youtube.com/watch?v=6zXQPCAVU60)
 
 ---
 
