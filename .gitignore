@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+*.log
+/screenshots/
+qa-shots/
+output/
+.gev-logs/
+.gev-cache/
+.DS_Store
+.gstack/
+3d-models/
+/Screenshot*.png
